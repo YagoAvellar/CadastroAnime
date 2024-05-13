@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
         <body>
             <h1>Menu</h1>
             <ul>
-                <li><a href="/ControleFinanceiro.html">Cadastrar novas despesas</a></li>
+                <li><a href="ControleFinanceiro.html">Cadastrar novas despesas</a></li>
                 <li><a href="/ControleFinanceiro">Listar Desepesas</a></li>
             </ul>
         </body>
