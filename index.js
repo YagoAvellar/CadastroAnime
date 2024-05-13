@@ -82,7 +82,7 @@ function controller(req, res) {
         </table>
         <p><strong>Valor total:</strong> ${resultado.toLocaleString('pt-br',{style: 'currency', currency: 'BRL'})}</p>
         <a class="btn btn-primary" href="/" role="button">Voltar ao menu</a>
-        <a class="btn btn-primary" href="/ControleFinanceiro.html" role="button">Continuar cadastrando</a>
+        <a class="btn btn-primary" href="/cadastro" role="button">Continuar cadastrando</a>
     </body>
     </html>
     `;
