@@ -1,0 +1,31 @@
+{
+    "name": "projetoppim2av",
+    "version": "1.0.0",
+    "description": "projeto para manipulação dos parâmetros",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/YagoAvellar/DespesasFinanceiras.git"
+    },
+    "keywords": [
+        "node",
+        "aprender",
+        "ppi"
+    ],
+    "author": "Yago Avellar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/YagoAvellar/DespesasFinanceiras/issues"
+    },
+    "homepage": "https://github.com/YagoAvellar/DespesasFinanceiras#readme",
+    "dependencies": {
+        "bootstrap": "^5.3.2",
+        "express": "^4.18.2",
+        "sqlite3": "^5.1.7"
+    }
+}
